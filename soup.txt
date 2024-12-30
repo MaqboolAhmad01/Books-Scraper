@@ -1,0 +1,2053 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="" name="title"/>
+  <meta content="free books, books to read, free ebooks, audio books, read books for free, read books online, online library" name="keywords"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="OpenLibrary.org" name="author">
+   <meta content="OpenLibrary.org" name="creator">
+    <meta content="Original content copyright; 2007-2015" name="copyright"/>
+    <meta content="Global" name="distribution"/>
+    <meta content="#e2dcc5" name="theme-color"/>
+    <link href="https://openlibrary.org/trending/now" rel="canonical"/>
+    <link href="https://athena.archive.org" rel="preconnect"/>
+    <link href="/static/opensearch.xml" rel="search" title="Open Library" type="application/opensearchdescription+xml"/>
+    <link href="/static/manifest.json" rel="manifest"/>
+    <link href="/static/images/openlibrary-128x128.png" rel="apple-touch-icon">
+     <link href="/static/images/openlibrary-152x152.png" rel="apple-touch-icon" sizes="152x152">
+      <link href="/static/images/openlibrary-167x167.png" rel="apple-touch-icon" sizes="167x167">
+       <link href="/static/images/openlibrary-180x180.png" rel="apple-touch-icon" sizes="180x180"/>
+       <link href="/static/images/openlibrary-192x192.png" rel="icon" sizes="192x192"/>
+       <link href="/static/images/openlibrary-128x128.png" rel="icon" sizes="128x128"/>
+       <link href="/static/build/page-user.css?v=eee118d6c52778be689528a648d30845" rel="stylesheet" type="text/css"/>
+       <noscript>
+        <style>
+         /* Don't hide content with clamp if no js to show more/less */
+        .clamp {
+          -webkit-line-clamp: unset !important;
+        }
+
+        /* Don't show read-more sections collapsed */
+        .read-more__content {
+          max-height: unset !important;
+        }
+        /* Don't show read-more toggle buttons */
+        .read-more__toggle {
+          display: none !important;
+        }
+
+        /* @width-breakpoint-tablet media query: */
+        @media only screen and (min-width: 768px) {
+          /* Sticky navbar to top of screen if compact title cannot be stickied */
+          .work-menu {
+            top: 0 !important;
+          }
+        }
+        </style>
+       </noscript>
+       <script>
+        /* @licstart  The following is the entire license notice for the
+ * JavaScript code in this page.
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU Affero General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU Affero General Public License for more details.
+ *
+ * You should have received a copy of the GNU Affero General Public License
+ * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ * @licend  The above is the entire license notice
+ * for the JavaScript code in this page.
+ */
+       </script>
+       <meta content="KrqcZD4l5BLNVyjzSi2sjZBiwgmkJ1W7n6w7ThD7A74" name="google-site-verification">
+        <meta content="vtXGm8q3UgP-f6qXTvQBo85uh3nmIYIotVqqdJDpyz4" name="google-site-verification"/>
+        <!-- Drini, Google Search Console -->
+        <meta content="XYOJ9Uj0MBr6wk7kj1IkttXrqY-bbRstFMADTfEt354" name="google-site-verification"/>
+        <!-- Drini, Bing Webmaster Tools -->
+        <meta content="8BEBECBEF537077737975A49D55B857D" name="msvalidate.01"/>
+        <meta content="Open Library is an open, editable library catalog, building towards a web page for every book ever published. Read, borrow, and discover more than 3M books for free." name="description"/>
+        <title>
+         trending/now | Open Library
+        </title>
+       </meta>
+      </link>
+     </link>
+    </link>
+   </meta>
+  </meta>
+ </head>
+ <body class="">
+  <script>
+   // Provide a signal that JS will load
+      document.body.className += ' client-js';
+  </script>
+  <span id="top">
+  </span>
+  <div id="offline-info">
+   It looks like you're offline.
+  </div>
+  <div id="donato">
+  </div>
+  <script data-platform="ol" src="/cdn/archive.org/donate.js">
+  </script>
+  <div id="topNotice">
+   <div class="page-banner page-banner-black page-banner-center">
+    <div class="iaBar">
+     <a class="iaLogo" href="https://archive.org">
+      <img alt="Internet Archive logo" src="/static/images/ia-logo.svg" width="160"/>
+     </a>
+     <a class="ghost-btn" data-ol-link-track="IABar|DonateButton" href="https://archive.org/donate/?platform=ol&amp;origin=olwww-TopNavDonateButton">
+      Donate
+      <span aria-hidden="true" class="heart">
+       ♥
+      </span>
+     </a>
+     <div class="language-component header-dropdown">
+      <details>
+       <summary>
+        <span>
+         English (en)
+        </span>
+        <img alt="Change Website Language" class="translate-icon" src="/static/images/language-icon.svg" title="Change Website Language">
+        </img>
+       </summary>
+       <div class="language-dropdown-component">
+        <ul class="locale-options dropdown-menu">
+         <li>
+          <a data-lang-id="cs" href="#" lang="cs" title="Czech">
+           Čeština (cs)
+          </a>
+         </li>
+         <li>
+          <a data-lang-id="de" href="#" lang="de" title="German">
+           Deutsch (de)
+          </a>
+         </li>
+         <li>
+          <a data-lang-id="en" href="#" lang="en" title="English">
+           English (en)
+          </a>
+         </li>
+         <li>
+          <a data-lang-id="es" href="#" lang="es" title="Spanish">
+           Español (es)
+          </a>
+         </li>
+         <li>
+          <a data-lang-id="fr" href="#" lang="fr" title="French">
+           Français (fr)
+          </a>
+         </li>
+         <li>
+          <a data-lang-id="hr" href="#" lang="hr" title="Croatian">
+           Hrvatski (hr)
+          </a>
+         </li>
+         <li>
+          <a data-lang-id="it" href="#" lang="it" title="Italian">
+           Italiano (it)
+          </a>
+         </li>
+         <li>
+          <a data-lang-id="pt" href="#" lang="pt" title="Portuguese">
+           Português (pt)
+          </a>
+         </li>
+         <li>
+          <a data-lang-id="hi" href="#" lang="hi" title="Hindi">
+           हिंदी (hi)
+          </a>
+         </li>
+         <li>
+          <a data-lang-id="sc" href="#" lang="sc" title="Sardinian">
+           Sardu (sc)
+          </a>
+         </li>
+         <li>
+          <a data-lang-id="te" href="#" lang="te" title="Telugu">
+           తెలుగు (te)
+          </a>
+         </li>
+         <li>
+          <a data-lang-id="uk" href="#" lang="uk" title="Ukrainian">
+           Українська (uk)
+          </a>
+         </li>
+         <li>
+          <a data-lang-id="zh" href="#" lang="zh" title="Chinese">
+           中文 (zh)
+          </a>
+         </li>
+        </ul>
+       </div>
+      </details>
+     </div>
+    </div>
+   </div>
+  </div>
+  <header class="header-bar" id="header-bar">
+   <div class="logo-component">
+    <a href="/" title="The Internet Archive's Open Library: One page for every book">
+     <div class="logo-txt">
+      <img alt="Open Library logo" class="logo-icon" height="47" src="/static/images/openlibrary-logo-tighter.svg" width="189"/>
+     </div>
+    </a>
+   </div>
+   <ul class="navigation-component">
+    <li>
+     <div class="mybooks-component header-dropdown">
+      <a data-ol-link-track="MainNav|MyBooks" href="/account/books">
+       My Books
+      </a>
+     </div>
+    </li>
+    <li>
+     <div class="browse-component header-dropdown">
+      <details>
+       <summary>
+        Browse
+        <span class="shift">
+         Menu
+        </span>
+        <img alt="" aria-hidden="true" class="down-arrow" height="4" role="presentation" src="/static/images/down-arrow.png" width="7"/>
+       </summary>
+       <div class="browse-dropdown-component navigation-dropdown-component">
+        <ul class="dropdown-menu browse-dropdown-menu">
+         <li>
+          <a data-ol-link-track="MainNav|Subjects" href="/subjects">
+           Subjects
+          </a>
+         </li>
+         <li>
+          <a data-ol-link-track="MainNav|Trending" href="/trending">
+           Trending
+          </a>
+         </li>
+         <li>
+          <a data-ol-link-track="MainNav|Explore" href="/explore">
+           Library Explorer
+          </a>
+         </li>
+         <li>
+          <a data-ol-link-track="MainNav|Lists" href="/lists">
+           Lists
+          </a>
+         </li>
+         <li>
+          <a data-ol-link-track="MainNav|Collections" href="/collections">
+           Collections
+          </a>
+         </li>
+         <li>
+          <a data-ol-link-track="MainNav|K12Library" href="/k-12">
+           K-12 Student Library
+          </a>
+         </li>
+         <li>
+          <a data-ol-link-track="MainNav|BookTalks" href="/booktalks">
+           Book Talks
+          </a>
+         </li>
+         <li>
+          <a data-ol-link-track="MainNav|RandomBook" href="/random">
+           Random Book
+          </a>
+         </li>
+         <li>
+          <a data-ol-link-track="MainNav|AdvancedSearch" href="/advancedsearch">
+           Advanced Search
+          </a>
+         </li>
+        </ul>
+       </div>
+      </details>
+     </div>
+    </li>
+   </ul>
+   <div class="search-component">
+    <div class="search-bar-component">
+     <div class="search-bar">
+      <div class="search-facet">
+       <label class="search-facet-selector">
+        <span aria-hidden="true" class="search-facet-value">
+         All
+        </span>
+        <select aria-label="Search by">
+         <option value="all">
+          All
+         </option>
+         <option value="title">
+          Title
+         </option>
+         <option value="author">
+          Author
+         </option>
+         <option value="text">
+          Text
+         </option>
+         <option value="subject">
+          Subject
+         </option>
+         <option value="lists">
+          Lists
+         </option>
+         <option value="advanced">
+          Advanced
+         </option>
+        </select>
+       </label>
+      </div>
+      <form action="/search" class="search-bar-input" method="get">
+       <input aria-label="Search" autocomplete="off" name="q" placeholder="Search" type="text"/>
+       <input aria-hidden="true" aria-label="Search checkbox" checked="checked" class="hidden instantsearch-mode" id="ftokenstop" name="mode" type="checkbox" value=""/>
+       <input aria-label="Search submit" class="search-bar-submit" type="submit" value=""/>
+       <div class="vertical-separator">
+       </div>
+       <a aria-label="Search by barcode" class="search-by-barcode-submit" href="/barcodescanner?returnTo=/isbn/$$$" id="barcode_scanner_link" title="Search by barcode">
+       </a>
+      </form>
+     </div>
+     <div class="search-dropdown">
+      <ul class="search-results">
+      </ul>
+     </div>
+    </div>
+   </div>
+   <ul class="auth-component">
+    <li class="hide-me">
+     <a class="btn" href="/account/login">
+      Log In
+     </a>
+    </li>
+    <li>
+     <a class="btn primary" href="/account/create">
+      Sign Up
+     </a>
+    </li>
+   </ul>
+   <div class="hamburger-component header-dropdown">
+    <details>
+     <summary data-ol-link-track="HeaderBar|Hamburger">
+      <img alt="additional options menu" class="hamburger__icon" src="/static/images/hamburger-icon.svg">
+       <img alt="" aria-hidden="true" class="down-arrow" height="4" role="presentation" src="/static/images/down-arrow.png" width="7"/>
+      </img>
+     </summary>
+     <div class="mask-menu">
+     </div>
+     <div class="app-drawer">
+      <ul class="dropdown-menu hamburger-dropdown-menu">
+       <li class="subsection">
+        My Open Library
+       </li>
+       <li class="login-links">
+        <a class="login-links__secondary" href="/account/login">
+         Log In
+        </a>
+        <a class="login-links__primary" href="/account/create">
+         Sign Up
+        </a>
+       </li>
+       <li class="subsection">
+        Browse
+       </li>
+       <li>
+        <a data-ol-link-track="Hamburger|Subjects" href="/subjects">
+         Subjects
+        </a>
+       </li>
+       <li>
+        <a data-ol-link-track="Hamburger|Trending" href="/trending">
+         Trending
+        </a>
+       </li>
+       <li>
+        <a data-ol-link-track="Hamburger|Explore" href="/explore">
+         Library Explorer
+        </a>
+       </li>
+       <li>
+        <a data-ol-link-track="Hamburger|Lists" href="/lists">
+         Lists
+        </a>
+       </li>
+       <li>
+        <a data-ol-link-track="Hamburger|Collections" href="/collections">
+         Collections
+        </a>
+       </li>
+       <li>
+        <a data-ol-link-track="Hamburger|K12Library" href="/k-12">
+         K-12 Student Library
+        </a>
+       </li>
+       <li>
+        <a data-ol-link-track="Hamburger|BookTalks" href="/booktalks">
+         Book Talks
+        </a>
+       </li>
+       <li>
+        <a data-ol-link-track="Hamburger|RandomBook" href="/random">
+         Random Book
+        </a>
+       </li>
+       <li>
+        <a data-ol-link-track="Hamburger|AdvancedSearch" href="/advancedsearch">
+         Advanced Search
+        </a>
+       </li>
+       <li class="subsection">
+        Contribute
+       </li>
+       <li>
+        <a data-ol-link-track="Hamburger|AddBook" href="/books/add">
+         Add a Book
+        </a>
+       </li>
+       <li>
+        <a data-ol-link-track="Hamburger|RecentEdits" href="/recentchanges">
+         Recent Community Edits
+        </a>
+       </li>
+       <li class="subsection">
+        Resources
+       </li>
+       <li>
+        <a data-ol-link-track="Hamburger|Help" href="/help">
+         Help &amp; Support
+        </a>
+       </li>
+       <li>
+        <a data-ol-link-track="Hamburger|DevelopersHelp" href="/developers">
+         Developer Center
+        </a>
+       </li>
+       <li>
+        <a data-ol-link-track="Hamburger|LibrariansHelp" href="/librarians">
+         Librarians Portal
+        </a>
+       </li>
+      </ul>
+     </div>
+    </details>
+   </div>
+  </header>
+  <header class="header-bar mobile">
+   <ul class="navigation-component mobile">
+    <li>
+     <div class="mybooks-component header-dropdown">
+      <a data-ol-link-track="MainNav|MyBooks" href="/account/books">
+       My Books
+      </a>
+     </div>
+    </li>
+    <li>
+     <div class="browse-component header-dropdown">
+      <details>
+       <summary>
+        Browse
+        <span class="shift">
+         Menu
+        </span>
+        <img alt="" aria-hidden="true" class="down-arrow" height="4" role="presentation" src="/static/images/down-arrow.png" width="7"/>
+       </summary>
+       <div class="browse-dropdown-component navigation-dropdown-component">
+        <ul class="dropdown-menu browse-dropdown-menu">
+         <li>
+          <a data-ol-link-track="MainNav|Subjects" href="/subjects">
+           Subjects
+          </a>
+         </li>
+         <li>
+          <a data-ol-link-track="MainNav|Trending" href="/trending">
+           Trending
+          </a>
+         </li>
+         <li>
+          <a data-ol-link-track="MainNav|Explore" href="/explore">
+           Library Explorer
+          </a>
+         </li>
+         <li>
+          <a data-ol-link-track="MainNav|Lists" href="/lists">
+           Lists
+          </a>
+         </li>
+         <li>
+          <a data-ol-link-track="MainNav|Collections" href="/collections">
+           Collections
+          </a>
+         </li>
+         <li>
+          <a data-ol-link-track="MainNav|K12Library" href="/k-12">
+           K-12 Student Library
+          </a>
+         </li>
+         <li>
+          <a data-ol-link-track="MainNav|BookTalks" href="/booktalks">
+           Book Talks
+          </a>
+         </li>
+         <li>
+          <a data-ol-link-track="MainNav|RandomBook" href="/random">
+           Random Book
+          </a>
+         </li>
+         <li>
+          <a data-ol-link-track="MainNav|AdvancedSearch" href="/advancedsearch">
+           Advanced Search
+          </a>
+         </li>
+        </ul>
+       </div>
+      </details>
+     </div>
+    </li>
+   </ul>
+  </header>
+  <div id="test-body-mobile">
+   <div class="flash-messages">
+   </div>
+   <div id="contentBody">
+    <h1>
+     Trending Books: Now
+    </h1>
+    <p>
+     See what readers from the community are adding to their bookshelves
+    </p>
+    <ul class="nav-bar">
+     <li class="selected">
+      <a href="/trending/now">
+       Now
+      </a>
+     </li>
+     <li class="">
+      <a href="/trending/daily">
+       Today
+      </a>
+     </li>
+     <li class="">
+      <a href="/trending/weekly">
+       This Week
+      </a>
+     </li>
+     <li class="">
+      <a href="/trending/monthly">
+       This Month
+      </a>
+     </li>
+     <li class="">
+      <a href="/trending/yearly">
+       This Year
+      </a>
+     </li>
+     <li class="">
+      <a href="/trending/forever">
+       All Time
+      </a>
+     </li>
+    </ul>
+    <div class="mybooks-list">
+     <ul class="list-books">
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL1890870W">
+          <img alt="Cover of: Dead poets society" itemprop="image" src="//covers.openlibrary.org/b/id/369083-M.jpg" title="Cover of: Dead poets society"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL1890870W" itemprop="url">
+            Dead poets society
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL226325A">
+           N. H. Kleinbaum
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 1989
+           </span>
+           —
+           <span>
+            <a href="/works/OL1890870W?mode=all#editions-list">
+             5 editions
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Want to Read 8 seconds ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <span class="cta-btn cta-btn--no-pointer">
+            Not in Library
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL263458W?edition=ia%3Amenarefrommarswo00john_0">
+          <img alt="Cover of: Men are From Mars, Women are From Venus" itemprop="image" src="//covers.openlibrary.org/b/olid/OL12792546M-M.jpg" title="Cover of: Men are From Mars, Women are From Venus"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL263458W?edition=ia%3Amenarefrommarswo00john_0" itemprop="url">
+            Men are From Mars, Women are From Venus
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL2623606A">
+           John Gray
+          </a>
+          ,
+          <a href="/authors/OL17396A">
+           John Gray
+          </a>
+          , and
+          <a href="/authors/OL10853713A">
+           John [Ph.D] Gray
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="preview-covers">
+           <a href="/works/OL263458W?edition=ia:menarefrommarswo00gray_0">
+            <img alt="Cover of edition menarefrommarswo00gray_0" height="45" loading="lazy" src="//archive.org/services/img/menarefrommarswo00gray_0" width="30"/>
+           </a>
+           <a href="/works/OL263458W?edition=ia:nanrenlaizihuoxi0000gray_g0o6">
+            <img alt="Cover of edition nanrenlaizihuoxi0000gray_g0o6" height="45" loading="lazy" src="//archive.org/services/img/nanrenlaizihuoxi0000gray_g0o6" width="30"/>
+           </a>
+           <a href="/works/OL263458W?edition=ia:menarefrommarswo0000gray_l1o5">
+            <img alt="Cover of edition menarefrommarswo0000gray_l1o5" height="45" loading="lazy" src="//archive.org/services/img/menarefrommarswo0000gray_l1o5" width="30"/>
+           </a>
+           <a href="/works/OL263458W?edition=ia:menarefrommarswo0000gray_w4l8">
+            <img alt="Cover of edition menarefrommarswo0000gray_w4l8" height="45" loading="lazy" src="//archive.org/services/img/menarefrommarswo0000gray_w4l8" width="30"/>
+           </a>
+           <a href="/works/OL263458W?edition=ia:loshombressondem00john">
+            <img alt="Cover of edition loshombressondem00john" height="45" loading="lazy" src="//archive.org/services/img/loshombressondem00john" width="30"/>
+           </a>
+           <a href="/works/OL263458W?edition=ia:loshombressondem00gray">
+            <img alt="Cover of edition loshombressondem00gray" height="45" loading="lazy" src="//archive.org/services/img/loshombressondem00gray" width="30"/>
+           </a>
+           <a href="/works/OL263458W?edition=ia:isbn_9780060926427">
+            <img alt="Cover of edition isbn_9780060926427" height="45" loading="lazy" src="//archive.org/services/img/isbn_9780060926427" width="30"/>
+           </a>
+           <a href="/works/OL263458W?edition=ia:menarefrommars00gray">
+            <img alt="Cover of edition menarefrommars00gray" height="45" loading="lazy" src="//archive.org/services/img/menarefrommars00gray" width="30"/>
+           </a>
+           <a href="/works/OL263458W?edition=ia:menarefrommarswo0000gray_p2m3">
+            <img alt="Cover of edition menarefrommarswo0000gray_p2m3" height="45" loading="lazy" src="//archive.org/services/img/menarefrommarswo0000gray_p2m3" width="30"/>
+           </a>
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 1992
+           </span>
+           —
+           <span>
+            <a href="/works/OL263458W?edition=ia%3Amenarefrommarswo00john_0&amp;mode=all#editions-list">
+             78 editions
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Want to Read 24 seconds ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <a class="cta-btn cta-btn--ia cta-btn--available cta-btn--borrow" data-ol-link-track="CTAClick|Borrow" href="/borrow/ia/menarefrommarswo00john_0?ref=ol" title="Borrow ebook from Internet Archive">
+            Borrow
+           </a>
+           <a class="cta-btn cta-btn--available cta-btn--w-icon" data-ol-link-track="CTAClick|BorrowListen" href="/borrow/ia/menarefrommarswo00john_0?ref=ol&amp;_autoReadAloud=show" title="Borrow ebook from Internet Archive using Read Aloud">
+            <span class="btn-icon read-aloud">
+            </span>
+            <span class="btn-label">
+             Listen
+            </span>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL8108348W?edition=ia%3Agoldmine00wilb">
+          <img alt="Cover of: Gold Mine" itemprop="image" src="//covers.openlibrary.org/b/olid/OL9878103M-M.jpg" title="Cover of: Gold Mine"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL8108348W?edition=ia%3Agoldmine00wilb" itemprop="url">
+            Gold Mine
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL24095A">
+           Wilbur Smith
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 1970
+           </span>
+           —
+           <span>
+            <a href="/works/OL8108348W?edition=ia%3Agoldmine00wilb&amp;mode=all#editions-list">
+             14 editions
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Want to Read 24 seconds ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <a class="cta-btn cta-btn--preview" data-iframe-link="https://archive.org/details/goldmine00wilb" data-iframe-src="https://archive.org/details/goldmine00wilb?view=theater&amp;wrapper=false" data-ol-link-track="CTAClick|Preview" href="#bookPreview">
+            Preview Only
+           </a>
+          </div>
+          <div class="hidden">
+           <div class="floater" id="bookPreview">
+            <div class="book-preview">
+             <div class="floaterHead">
+              <h2>
+               Preview Book
+              </h2>
+              <a class="dialog--close" data-key="book_preview">
+               ×
+               <span class="shift">
+                Close
+               </span>
+              </a>
+             </div>
+             <div class="iframe-container">
+              <iframe style="width:100%; height:515px">
+              </iframe>
+              <p class="learn-more">
+               <a data-key="book_preview_learn_more" data-ol-link-track="book_preview_learn_more">
+               </a>
+              </p>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL4638962W?edition=ia%3Ainjectionmouldde0000pyer">
+          <img alt="Cover of: Injection mould design" itemprop="image" src="//covers.openlibrary.org/b/olid/OL2049649M-M.jpg" title="Cover of: Injection mould design"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL4638962W?edition=ia%3Ainjectionmouldde0000pyer" itemprop="url">
+            Injection mould design
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL952558A">
+           R. G. W. Pye
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 1978
+           </span>
+           —
+           <span>
+            <a href="/works/OL4638962W?edition=ia%3Ainjectionmouldde0000pyer&amp;mode=all#editions-list">
+             7 editions
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Want to Read 40 seconds ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <a class="cta-btn cta-btn--missing" data-ol-link-track="CTAClick|CheckedOut" href="/works/OL4638962W" title="This book is currently checked out, please check back later.">
+            Checked Out
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL36246267W">
+          <img alt="Cover of: Kettlebell Axe" itemprop="image" src="/images/icons/avatar_book-sm.png" title="Cover of: Kettlebell Axe"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL36246267W" itemprop="url">
+            Kettlebell Axe
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL2960068A">
+           Pavel Tsatsouline
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 2023
+           </span>
+           —
+           <span>
+            <a href="/works/OL36246267W?mode=all#editions-list">
+             1 edition
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Want to Read 46 seconds ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <span class="cta-btn cta-btn--no-pointer">
+            Not in Library
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL13814659W?edition=ia%3Awebapplicationha00stut">
+          <img alt="Cover of: The web application hacker's handbook" itemprop="image" src="https://archive.org/download/webapplicationha00stut/page/cover_w180_h360.jpg" title="Cover of: The web application hacker's handbook"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL13814659W?edition=ia%3Awebapplicationha00stut" itemprop="url">
+            The web application hacker's handbook
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL6686073A">
+           Dafydd Stuttard
+          </a>
+          and
+          <a href="/authors/OL3253113A">
+           Dafydd Stuttard
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="preview-covers">
+           <a href="/works/OL13814659W?edition=ia:webapplicationha00stut_111">
+            <img alt="Cover of edition webapplicationha00stut_111" height="45" loading="lazy" src="//archive.org/services/img/webapplicationha00stut_111" width="30"/>
+           </a>
+           <a href="/works/OL13814659W?edition=ia:webapplicationha00stut_250">
+            <img alt="Cover of edition webapplicationha00stut_250" height="45" loading="lazy" src="//archive.org/services/img/webapplicationha00stut_250" width="30"/>
+           </a>
+           <a href="/works/OL13814659W?edition=ia:webapplicationha00stut_407">
+            <img alt="Cover of edition webapplicationha00stut_407" height="45" loading="lazy" src="//archive.org/services/img/webapplicationha00stut_407" width="30"/>
+           </a>
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 2007
+           </span>
+           —
+           <span>
+            <a href="/works/OL13814659W?edition=ia%3Awebapplicationha00stut&amp;mode=all#editions-list">
+             12 editions
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Want to Read 47 seconds ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <span class="cta-btn cta-btn--no-pointer">
+            Not in Library
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL24311492W">
+          <img alt="Cover of: Conclave" itemprop="image" src="//covers.openlibrary.org/b/id/10827466-M.jpg" title="Cover of: Conclave"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL24311492W" itemprop="url">
+            Conclave
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL11182351A">
+           Penelope Douglas
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 2019
+           </span>
+           —
+           <span>
+            <a href="/works/OL24311492W?mode=all#editions-list">
+             1 edition
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Want to Read 1 minute ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <span class="cta-btn cta-btn--no-pointer">
+            Not in Library
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL18108064W">
+          <img alt="Cover of: Can't Hurt Me: Master Your Mind and Defy the Odds" itemprop="image" src="//covers.openlibrary.org/b/id/8305903-M.jpg" title="Cover of: Can't Hurt Me: Master Your Mind and Defy the Odds"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL18108064W" itemprop="url">
+            Can't Hurt Me: Master Your Mind and Defy the Odds
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL7440751A">
+           David Goggins
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 2018
+           </span>
+           —
+           <span>
+            <a href="/works/OL18108064W?mode=all#editions-list">
+             7 editions
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Want to Read 1 minute ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <span class="cta-btn cta-btn--no-pointer">
+            Not in Library
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL24390422W">
+          <img alt="Cover of: Twisted Love" itemprop="image" src="//covers.openlibrary.org/b/id/12940491-M.jpg" title="Cover of: Twisted Love"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL24390422W" itemprop="url">
+            Twisted Love
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL9180803A">
+           Ana Huang
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 2021
+           </span>
+           —
+           <span>
+            <a href="/works/OL24390422W?mode=all#editions-list">
+             13 editions
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Want to Read 1 minute ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <span class="cta-btn cta-btn--no-pointer">
+            Not in Library
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL2619297W?edition=ia%3Aisbn_2004002379">
+          <img alt="Cover of: Case Histories" itemprop="image" src="//covers.openlibrary.org/b/olid/OL15592801M-M.jpg" title="Cover of: Case Histories"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL2619297W?edition=ia%3Aisbn_2004002379" itemprop="url">
+            Case Histories
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL381568A">
+           Kate Atkinson
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="preview-covers">
+           <a href="/works/OL2619297W?edition=ia:casehistories00kate">
+            <img alt="Cover of edition casehistories00kate" height="45" loading="lazy" src="//archive.org/services/img/casehistories00kate" width="30"/>
+           </a>
+           <a href="/works/OL2619297W?edition=ia:casehistoriesnov00atki">
+            <img alt="Cover of edition casehistoriesnov00atki" height="45" loading="lazy" src="//archive.org/services/img/casehistoriesnov00atki" width="30"/>
+           </a>
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 2004
+           </span>
+           —
+           <span>
+            <a href="/works/OL2619297W?edition=ia%3Aisbn_2004002379&amp;mode=all#editions-list">
+             13 editions
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Want to Read 2 minutes ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <a class="cta-btn cta-btn--preview" data-iframe-link="https://archive.org/details/isbn_2004002379" data-iframe-src="https://archive.org/details/isbn_2004002379?view=theater&amp;wrapper=false" data-ol-link-track="CTAClick|Preview" href="#bookPreview">
+            Preview Only
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL18020194W?edition=ia%3Aitendswithus0000hoov">
+          <img alt="Cover of: It Ends With Us" itemprop="image" src="//covers.openlibrary.org/b/olid/OL27213498M-M.jpg" title="Cover of: It Ends With Us"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL18020194W?edition=ia%3Aitendswithus0000hoov" itemprop="url">
+            It Ends With Us
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL7315784A">
+           Colleen Hoover
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 2012
+           </span>
+           —
+           <span>
+            <a href="/works/OL18020194W?edition=ia%3Aitendswithus0000hoov&amp;mode=all#editions-list">
+             34 editions
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Want to Read 2 minutes ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <a class="cta-btn cta-btn--preview" data-iframe-link="https://archive.org/details/itendswithus0000hoov" data-iframe-src="https://archive.org/details/itendswithus0000hoov?view=theater&amp;wrapper=false" data-ol-link-track="CTAClick|Preview" href="#bookPreview">
+            Preview Only
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL460961W">
+          <img alt="Cover of: The Wife Seduction" itemprop="image" src="/images/icons/avatar_book-sm.png" title="Cover of: The Wife Seduction"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL460961W" itemprop="url">
+            The Wife Seduction
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL26954A">
+           Margaret Mayo
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 2000
+           </span>
+           —
+           <span>
+            <a href="/works/OL460961W?mode=all#editions-list">
+             1 edition
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Want to Read 2 minutes ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <span class="cta-btn cta-btn--no-pointer">
+            Not in Library
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL9883674W?edition=ia%3Ayourownallotment00nail">
+          <img alt="Cover of: How to Grow Your Own Food" itemprop="image" src="https://archive.org/download/yourownallotment00nail/page/cover_w180_h360.jpg" title="Cover of: How to Grow Your Own Food"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL9883674W?edition=ia%3Ayourownallotment00nail" itemprop="url">
+            How to Grow Your Own Food
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL3866078A">
+           Dirty Nails
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 2007
+           </span>
+           —
+           <span>
+            <a href="/works/OL9883674W?edition=ia%3Ayourownallotment00nail&amp;mode=all#editions-list">
+             1 edition
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Want to Read 3 minutes ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <span class="cta-btn cta-btn--no-pointer">
+            Not in Library
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL29017062W">
+          <img alt="Cover of: Basics of Finance" itemprop="image" src="/images/icons/avatar_book-sm.png" title="Cover of: Basics of Finance"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL29017062W" itemprop="url">
+            Basics of Finance
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL10740347A">
+           Peterson Drake Pamela
+          </a>
+          and
+          <a href="/authors/OL23354A">
+           Frank J. Fabozzi
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 2010
+           </span>
+           —
+           <span>
+            <a href="/works/OL29017062W?mode=all#editions-list">
+             3 editions
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Want to Read 3 minutes ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <span class="cta-btn cta-btn--no-pointer">
+            Not in Library
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL80947W?edition=ia%3Alafilledutemps0000jose">
+          <img alt="Cover of: The Daughter of Time" itemprop="image" src="//covers.openlibrary.org/b/olid/OL12508570M-M.jpg" title="Cover of: The Daughter of Time"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL80947W?edition=ia%3Alafilledutemps0000jose" itemprop="url">
+            The Daughter of Time
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL2625174A">
+           Josephine Tey
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="preview-covers">
+           <a href="/works/OL80947W?edition=ia:daughteroftime0000teyj_z8l5">
+            <img alt="Cover of edition daughteroftime0000teyj_z8l5" height="45" loading="lazy" src="//archive.org/services/img/daughteroftime0000teyj_z8l5" width="30"/>
+           </a>
+           <a href="/works/OL80947W?edition=ia:daughteroftime1977teyj">
+            <img alt="Cover of edition daughteroftime1977teyj" height="45" loading="lazy" src="//archive.org/services/img/daughteroftime1977teyj" width="30"/>
+           </a>
+           <a href="/works/OL80947W?edition=ia:daughteroft00teyj">
+            <img alt="Cover of edition daughteroft00teyj" height="45" loading="lazy" src="//archive.org/services/img/daughteroft00teyj" width="30"/>
+           </a>
+           <a href="/works/OL80947W?edition=ia:daughteroftime00teyj_0">
+            <img alt="Cover of edition daughteroftime00teyj_0" height="45" loading="lazy" src="//archive.org/services/img/daughteroftime00teyj_0" width="30"/>
+           </a>
+           <a href="/works/OL80947W?edition=ia:daughteroftime000teyj">
+            <img alt="Cover of edition daughteroftime000teyj" height="45" loading="lazy" src="//archive.org/services/img/daughteroftime000teyj" width="30"/>
+           </a>
+           <a href="/works/OL80947W?edition=ia:daughteroftime00teyj">
+            <img alt="Cover of edition daughteroftime00teyj" height="45" loading="lazy" src="//archive.org/services/img/daughteroftime00teyj" width="30"/>
+           </a>
+           <a href="/works/OL80947W?edition=ia:daughteroftime00jose">
+            <img alt="Cover of edition daughteroftime00jose" height="45" loading="lazy" src="//archive.org/services/img/daughteroftime00jose" width="30"/>
+           </a>
+           <a href="/works/OL80947W?edition=ia:daughteroftime00teyj_1">
+            <img alt="Cover of edition daughteroftime00teyj_1" height="45" loading="lazy" src="//archive.org/services/img/daughteroftime00teyj_1" width="30"/>
+           </a>
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 1951
+           </span>
+           —
+           <span>
+            <a href="/works/OL80947W?edition=ia%3Alafilledutemps0000jose&amp;mode=all#editions-list">
+             129 editions
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Want to Read 3 minutes ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <a class="cta-btn cta-btn--ia cta-btn--available cta-btn--borrow" data-ol-link-track="CTAClick|Borrow" href="/borrow/ia/lafilledutemps0000jose?ref=ol" title="Borrow ebook from Internet Archive">
+            Borrow
+           </a>
+           <a class="cta-btn cta-btn--available cta-btn--w-icon" data-ol-link-track="CTAClick|BorrowListen" href="/borrow/ia/lafilledutemps0000jose?ref=ol&amp;_autoReadAloud=show" title="Borrow ebook from Internet Archive using Read Aloud">
+            <span class="btn-icon read-aloud">
+            </span>
+            <span class="btn-label">
+             Listen
+            </span>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL33772308W">
+          <img alt="Cover of: Segunda Chance (Em Portuguese do Brasil)" itemprop="image" src="/images/icons/avatar_book-sm.png" title="Cover of: Segunda Chance (Em Portuguese do Brasil)"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL33772308W" itemprop="url">
+            Segunda Chance (Em Portuguese do Brasil)
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL1394974A">
+           Elin Hilderbrand
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 2015
+           </span>
+           —
+           <span>
+            <a href="/works/OL33772308W?mode=all#editions-list">
+             1 edition
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Currently Reading 4 minutes ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <span class="cta-btn cta-btn--no-pointer">
+            Not in Library
+           </span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL8108349W?edition=ia%3Aledieufleuveroma0000smit">
+          <img alt="Cover of: River God" itemprop="image" src="//covers.openlibrary.org/b/olid/OL8888725M-M.jpg" title="Cover of: River God"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL8108349W?edition=ia%3Aledieufleuveroma0000smit" itemprop="url">
+            River God
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL24095A">
+           Wilbur Smith
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="preview-covers">
+           <a href="/works/OL8108349W?edition=ia:rivergod0000smit_z6e1">
+            <img alt="Cover of edition rivergod0000smit_z6e1" height="45" loading="lazy" src="//archive.org/services/img/rivergod0000smit_z6e1" width="30"/>
+           </a>
+           <a href="/works/OL8108349W?edition=ia:rivergod00smit_0">
+            <img alt="Cover of edition rivergod00smit_0" height="45" loading="lazy" src="//archive.org/services/img/rivergod00smit_0" width="30"/>
+           </a>
+           <a href="/works/OL8108349W?edition=ia:rivergod0002smit">
+            <img alt="Cover of edition rivergod0002smit" height="45" loading="lazy" src="//archive.org/services/img/rivergod0002smit" width="30"/>
+           </a>
+           <a href="/works/OL8108349W?edition=ia:rivergod0000smit_p8b6">
+            <img alt="Cover of edition rivergod0000smit_p8b6" height="45" loading="lazy" src="//archive.org/services/img/rivergod0000smit_p8b6" width="30"/>
+           </a>
+           <a href="/works/OL8108349W?edition=ia:rivergod00smit">
+            <img alt="Cover of edition rivergod00smit" height="45" loading="lazy" src="//archive.org/services/img/rivergod00smit" width="30"/>
+           </a>
+           <a href="/works/OL8108349W?edition=ia:rivergod00wilb">
+            <img alt="Cover of edition rivergod00wilb" height="45" loading="lazy" src="//archive.org/services/img/rivergod00wilb" width="30"/>
+           </a>
+           <a href="/works/OL8108349W?edition=ia:rivergodnovelofa0000smit">
+            <img alt="Cover of edition rivergodnovelofa0000smit" height="45" loading="lazy" src="//archive.org/services/img/rivergodnovelofa0000smit" width="30"/>
+           </a>
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 1993
+           </span>
+           —
+           <span>
+            <a href="/works/OL8108349W?edition=ia%3Aledieufleuveroma0000smit&amp;mode=all#editions-list">
+             29 editions
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Want to Read 5 minutes ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <a class="cta-btn cta-btn--ia cta-btn--available cta-btn--borrow" data-ol-link-track="CTAClick|Borrow" href="/borrow/ia/ledieufleuveroma0000smit?ref=ol" title="Borrow ebook from Internet Archive">
+            Borrow
+           </a>
+           <a class="cta-btn cta-btn--available cta-btn--w-icon" data-ol-link-track="CTAClick|BorrowListen" href="/borrow/ia/ledieufleuveroma0000smit?ref=ol&amp;_autoReadAloud=show" title="Borrow ebook from Internet Archive using Read Aloud">
+            <span class="btn-icon read-aloud">
+            </span>
+            <span class="btn-label">
+             Listen
+            </span>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL498556W?edition=ia%3Alamtamorphosedes0000fran">
+          <img alt="Cover of: Die Verwandlung" itemprop="image" src="//covers.openlibrary.org/b/olid/OL8841812M-M.jpg" title="Cover of: Die Verwandlung"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL498556W?edition=ia%3Alamtamorphosedes0000fran" itemprop="url">
+            Die Verwandlung
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL33146A">
+           Franz Kafka
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="preview-covers">
+           <a href="/works/OL498556W?edition=ia:lametamorphose0000kafk_e3h9">
+            <img alt="Cover of edition lametamorphose0000kafk_e3h9" height="45" loading="lazy" src="//archive.org/services/img/lametamorphose0000kafk_e3h9" width="30"/>
+           </a>
+           <a href="/works/OL498556W?edition=ia:metamorfose0000fran">
+            <img alt="Cover of edition metamorfose0000fran" height="45" loading="lazy" src="//archive.org/services/img/metamorfose0000fran" width="30"/>
+           </a>
+           <a href="/works/OL498556W?edition=ia:lametamorphose0000kafk_h9v1">
+            <img alt="Cover of edition lametamorphose0000kafk_h9v1" height="45" loading="lazy" src="//archive.org/services/img/lametamorphose0000kafk_h9v1" width="30"/>
+           </a>
+           <a href="/works/OL498556W?edition=ia:lametamorphosesu0000kafk">
+            <img alt="Cover of edition lametamorphosesu0000kafk" height="45" loading="lazy" src="//archive.org/services/img/lametamorphosesu0000kafk" width="30"/>
+           </a>
+           <a href="/works/OL498556W?edition=ia:metamorphosisfka00fran">
+            <img alt="Cover of edition metamorphosisfka00fran" height="45" loading="lazy" src="//archive.org/services/img/metamorphosisfka00fran" width="30"/>
+           </a>
+           <a href="/works/OL498556W?edition=ia:metamorphosis0000kafk_y8c1">
+            <img alt="Cover of edition metamorphosis0000kafk_y8c1" height="45" loading="lazy" src="//archive.org/services/img/metamorphosis0000kafk_y8c1" width="30"/>
+           </a>
+           <a href="/works/OL498556W?edition=ia:metamorphosis0000fran">
+            <img alt="Cover of edition metamorphosis0000fran" height="45" loading="lazy" src="//archive.org/services/img/metamorphosis0000fran" width="30"/>
+           </a>
+           <a href="/works/OL498556W?edition=ia:metamorphosistra0000kafk">
+            <img alt="Cover of edition metamorphosistra0000kafk" height="45" loading="lazy" src="//archive.org/services/img/metamorphosistra0000kafk" width="30"/>
+           </a>
+           <a href="/works/OL498556W?edition=ia:metamorphosiswit0000kafk">
+            <img alt="Cover of edition metamorphosiswit0000kafk" height="45" loading="lazy" src="//archive.org/services/img/metamorphosiswit0000kafk" width="30"/>
+           </a>
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 1915
+           </span>
+           —
+           <span>
+            <a href="/works/OL498556W?edition=ia%3Alamtamorphosedes0000fran&amp;mode=all#editions-list">
+             948 editions
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Want to Read 6 minutes ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <a class="cta-btn cta-btn--ia cta-btn--available cta-btn--borrow" data-ol-link-track="CTAClick|Borrow" href="/borrow/ia/lamtamorphosedes0000fran?ref=ol" title="Borrow ebook from Internet Archive">
+            Borrow
+           </a>
+           <a class="cta-btn cta-btn--available cta-btn--w-icon" data-ol-link-track="CTAClick|BorrowListen" href="/borrow/ia/lamtamorphosedes0000fran?ref=ol&amp;_autoReadAloud=show" title="Borrow ebook from Internet Archive using Read Aloud">
+            <span class="btn-icon read-aloud">
+            </span>
+            <span class="btn-label">
+             Listen
+            </span>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL19986251W?edition=ia%3Amillionairemaste0000hami">
+          <img alt="Cover of: The millionaire master plan" itemprop="image" src="//covers.openlibrary.org/b/olid/OL27166377M-M.jpg" title="Cover of: The millionaire master plan"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL19986251W?edition=ia%3Amillionairemaste0000hami" itemprop="url">
+            The millionaire master plan
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL7597012A">
+           Roger James Hamilton
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 2014
+           </span>
+           —
+           <span>
+            <a href="/works/OL19986251W?edition=ia%3Amillionairemaste0000hami&amp;mode=all#editions-list">
+             8 editions
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Want to Read 6 minutes ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <a class="cta-btn cta-btn--preview" data-iframe-link="https://archive.org/details/millionairemaste0000hami" data-iframe-src="https://archive.org/details/millionairemaste0000hami?view=theater&amp;wrapper=false" data-ol-link-track="CTAClick|Preview" href="#bookPreview">
+            Preview Only
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+      <li class="searchResultItem sri--w-main" itemscope="" itemtype="https://schema.org/Book">
+       <div class="sri__main">
+        <span class="bookcover">
+         <a href="/works/OL2500692W?edition=ia%3Akorankafirislami0000ghos">
+          <img alt="Cover of: The Koran and the kafir" itemprop="image" src="//covers.openlibrary.org/b/olid/OL2799340M-M.jpg" title="Cover of: The Koran and the kafir"/>
+         </a>
+        </span>
+        <div class="details">
+         <div class="resultTitle">
+          <h3 class="booktitle" itemprop="name">
+           <a class="results" href="/works/OL2500692W?edition=ia%3Akorankafirislami0000ghos" itemprop="url">
+            The Koran and the kafir
+           </a>
+          </h3>
+         </div>
+         <span class="bookauthor" itemprop="author" itemscope="" itemtype="https://schema.org/Organization">
+          by
+          <a href="/authors/OL350833A">
+           Ghosh, A.
+          </a>
+         </span>
+         <span class="resultStats">
+          <span class="ratingsByline" itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating">
+          </span>
+          <span class="resultDetails">
+           <span>
+            First published in 1983
+           </span>
+           —
+           <span>
+            <a href="/works/OL2500692W?edition=ia%3Akorankafirislami0000ghos&amp;mode=all#editions-list">
+             2 editions
+            </a>
+           </span>
+          </span>
+         </span>
+         Someone marked as Want to Read 7 minutes ago
+        </div>
+        <div class="searchResultItemCTA">
+         <div class="searchResultItemCTA-lending">
+          <div class="cta-button-group">
+           <a class="cta-btn cta-btn--missing" data-ol-link-track="CTAClick|CheckedOut" href="/works/OL2500692W" title="This book is currently checked out, please check back later.">
+            Checked Out
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+      </li>
+     </ul>
+    </div>
+    <div class="pager">
+     <div class="clearfix">
+     </div>
+     <div class="pagination">
+      <span class="this">
+       1
+      </span>
+      <a class="ChoosePage" href="/trending/now?page=2">
+       2
+      </a>
+      <a class="ChoosePage" href="/trending/now?page=3">
+       3
+      </a>
+      <a class="ChoosePage" href="/trending/now?page=4">
+       4
+      </a>
+      <a class="ChoosePage" href="/trending/now?page=5">
+       5
+      </a>
+      <a class="ChoosePage" href="/trending/now?page=6">
+       6
+      </a>
+      <a class="ChoosePage" href="/trending/now?page=7">
+       7
+      </a>
+      <a class="ChoosePage" href="/trending/now?page=8">
+       8
+      </a>
+      <a class="ChoosePage" href="/trending/now?page=9">
+       9
+      </a>
+      <a class="ChoosePage" href="/trending/now?page=10">
+       10
+      </a>
+      <a class="ChoosePage" href="/trending/now?page=2">
+       Next &gt;
+      </a>
+     </div>
+    </div>
+   </div>
+  </div>
+  <!--For analytics-->
+  <div class="clearfix">
+  </div>
+  <footer>
+   <div id="footer-content">
+    <div id="footer-links">
+     <div>
+      <h2>
+       Open Library
+      </h2>
+      <ul>
+       <li>
+        <a href="/about/vision">
+         Vision
+        </a>
+       </li>
+       <li>
+        <a href="/volunteer">
+         Volunteer
+        </a>
+       </li>
+       <li>
+        <a href="/partner-with-us">
+         Partner With Us
+        </a>
+       </li>
+       <li>
+        <a href="https://archive.org/about/jobs.php" title="Jobs">
+         Careers
+        </a>
+       </li>
+       <li>
+        <a href="https://blog.openlibrary.org/">
+         Blog
+        </a>
+       </li>
+       <li>
+        <a href="https://archive.org/about/terms.php">
+         Terms of Service
+        </a>
+       </li>
+       <li>
+        <a href="https://archive.org/donate/?platform=ol&amp;origin=olwww-TopNavDonateButton">
+         Donate
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div>
+      <h2>
+       Discover
+      </h2>
+      <ul>
+       <li>
+        <a href="/" title="Go home">
+         Home
+        </a>
+       </li>
+       <li>
+        <a href="/search" title="Explore Books">
+         Books
+        </a>
+       </li>
+       <li>
+        <a href="/search/authors" title="Explore authors">
+         Authors
+        </a>
+       </li>
+       <li>
+        <a href="/subjects" title="Explore subjects">
+         Subjects
+        </a>
+       </li>
+       <li>
+        <a href="/collections" title="Explore collections">
+         Collections
+        </a>
+       </li>
+       <li>
+        <a href="/advancedsearch" title="Advanced Search">
+         Advanced Search
+        </a>
+       </li>
+       <li>
+        <a href="#top" title="Navigate to top of this page">
+         Return to Top
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div>
+      <h2>
+       Develop
+      </h2>
+      <ul>
+       <li>
+        <a href="/developers" title="Explore Open Library Developer Center">
+         Developer Center
+        </a>
+       </li>
+       <li>
+        <a href="/developers/api" title="Explore Open Library APIs">
+         API Documentation
+        </a>
+       </li>
+       <li>
+        <a href="/developers/dumps" title="Bulk Open Library data">
+         Bulk Data Dumps
+        </a>
+       </li>
+       <li>
+        <a href="https://github.com/internetarchive/openlibrary/wiki/Writing-Bots" title="Write a bot">
+         Writing Bots
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div>
+      <h2>
+       Help
+      </h2>
+      <ul>
+       <li>
+        <a href="/help">
+         Help Center
+        </a>
+       </li>
+       <li>
+        <a href="mailto:openlibrary@archive.org?subject=Support Case" title="Problems">
+         Report A Problem
+        </a>
+       </li>
+       <li>
+        <a href="/help/faq/editing" title="Suggest Edits">
+         Suggesting Edits
+        </a>
+       </li>
+       <li>
+        <a href="/books/add" title="Add a new book to Open Library">
+         Add a Book
+        </a>
+       </li>
+       <li>
+        <a href="https://github.com/internetarchive/openlibrary/releases" title="Release Notes">
+         Release Notes
+        </a>
+       </li>
+      </ul>
+      <aside>
+       <a class="footer-icon" href="https://twitter.com/OpenLibrary" title="Twitter">
+        <img alt="" loading="lazy" src="/static/images/tweet.svg"/>
+       </a>
+       <a class="footer-icon" href="https://github.com/internetarchive/openlibrary" title="GitHub">
+        <img alt="" loading="lazy" src="/static/images/github.svg"/>
+       </a>
+      </aside>
+     </div>
+     <div>
+      <h2>
+       Change Website Language
+      </h2>
+      <ul class="locale-options">
+       <li>
+        <a data-lang-id="cs" href="#" lang="cs" title="Czech">
+         Čeština (cs)
+        </a>
+       </li>
+       <li>
+        <a data-lang-id="de" href="#" lang="de" title="German">
+         Deutsch (de)
+        </a>
+       </li>
+       <li>
+        <a data-lang-id="en" href="#" lang="en" title="English">
+         English (en)
+        </a>
+       </li>
+       <li>
+        <a data-lang-id="es" href="#" lang="es" title="Spanish">
+         Español (es)
+        </a>
+       </li>
+       <li>
+        <a data-lang-id="fr" href="#" lang="fr" title="French">
+         Français (fr)
+        </a>
+       </li>
+       <li>
+        <a data-lang-id="hr" href="#" lang="hr" title="Croatian">
+         Hrvatski (hr)
+        </a>
+       </li>
+       <li>
+        <a data-lang-id="it" href="#" lang="it" title="Italian">
+         Italiano (it)
+        </a>
+       </li>
+       <li>
+        <a data-lang-id="pt" href="#" lang="pt" title="Portuguese">
+         Português (pt)
+        </a>
+       </li>
+       <li>
+        <a data-lang-id="hi" href="#" lang="hi" title="Hindi">
+         हिंदी (hi)
+        </a>
+       </li>
+       <li>
+        <a data-lang-id="sc" href="#" lang="sc" title="Sardinian">
+         Sardu (sc)
+        </a>
+       </li>
+       <li>
+        <a data-lang-id="te" href="#" lang="te" title="Telugu">
+         తెలుగు (te)
+        </a>
+       </li>
+       <li>
+        <a data-lang-id="uk" href="#" lang="uk" title="Ukrainian">
+         Українська (uk)
+        </a>
+       </li>
+       <li>
+        <a data-lang-id="zh" href="#" lang="zh" title="Chinese">
+         中文 (zh)
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+    <hr/>
+    <div id="footer-details">
+     <img alt="Open Library logo" id="archive-logo" loading="lazy" src="/static/images/pantheon.png"/>
+     <div id="legal-details">
+      <span>
+       Open Library is an initiative of the
+       <a href="//archive.org/">
+        Internet Archive
+       </a>
+       , a 501(c)(3) non-profit, building a digital library of Internet sites and other cultural artifacts in  digital form. Other
+       <a href="//archive.org/projects/">
+        projects
+       </a>
+       include the
+       <a href="//archive.org/web/">
+        Wayback Machine
+       </a>
+       ,
+       <a href="//archive.org/">
+        archive.org
+       </a>
+       and
+       <a href="//archive-it.org">
+        archive-it.org
+       </a>
+      </span>
+     </div>
+     <div id="version-details">
+      <span class="version">
+       version
+       <a href="https://github.com/internetarchive/openlibrary/commit/cc339a9">
+        cc339a9
+       </a>
+      </span>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <script src="/cdn/archive.org/analytics.js" type="text/javascript">
+  </script>
+  <script src="/static/build/all.js?v=35fe729d39027190d00ebeb2f39ca90a" type="text/javascript">
+  </script>
+  <!-- Passes total_time for analytics to ol.analytics.js -->
+  <div class="analytics-stats-time-calculator" data-time="45.06802558898926">
+  </div>
+ </body>
+</html>
