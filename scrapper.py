@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
 
 # Function to scrape a webpage
 def scrape_and_save_page(url, file_name):
@@ -39,17 +38,3 @@ def scrape_and_save_page(url, file_name):
 
     except requests.exceptions.RequestException as e:
         print(f"Error fetching {url}: {e}")
-
-# Example usage
-if __name__ == "__main__":
-    slugs = [
-        '/trending/now',
-        '/trending/daily',
-        '/trending/weekly',
-        '/trending/monthly',
-        '/trending/yearly',
-        '/trending/forever',
-    ]
-    for slug in slugs:
-        target_url = f"https://openlibrary.org{slug}"  # Replace with the URL you want to scrape
-        scrape_and_save_page(target_url,f"{slug.split("/")[-1]}.txt")
